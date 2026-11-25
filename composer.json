@@ -1,11 +1,18 @@
 {
     "name": "infrangible/m2-catalog-product-redirect",
-    "description": "Infrangible Magento 2 Catalog Product Redirect",
+    "description": "Sends visitors of disabled or out-of-stock product pages to another product, either with a permanent or temporary redirect or by showing the other product under the same address.",
     "type": "magento2-module",
     "version": "1.0.1",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "Catalog",
+        "SEO",
+        "redirect disabled products",
+        "redirect out-of-stock products",
+        "product 301 redirect"
     ],
     "homepage": "https://github.com/infrangible-dev/m2-catalog-product-redirect",
     "authors": [
